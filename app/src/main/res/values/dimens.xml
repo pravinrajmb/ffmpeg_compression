@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vertical_spacing">16dp</dimen>
+    <dimen name="video_player_height">300dp</dimen>
+    <dimen name="edit_text_width">300dp</dimen>
+    <dimen name="margin_start">16dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Video Compression</string>
+    <string name="select_video">Select Video</string>
+    <string name="compress_video">Compress Video</string>
+    <string name="bit_rate">Bit rate</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+</resources>
